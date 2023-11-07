@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3N/1LKDS100X7M5EC7KD70KXZ.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/ZO/N05REGHUX5G36YIVMNX3RY.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/YT/G9OGAR13KVGM0UORZXJQ60.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/FirstPerson/Blueprints/WBP_WinScreen.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/FirstPerson/Blueprints/BP_Bullets.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/4M/XNWF47ZUUPOMKQIFLGXX30.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/44/B4QWT9NMKYKVBOLTDM76L4.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/Target/SM_Target_SM_Target/SM_Target_GeometryCollection.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/7K/YTN5S9C25Y8QSQAD42L6A0.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3T/D1IRCDSPJTB6AJ0ELFM4EL.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/YX/1XBM558ELXOI3MKXTXGOHD.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/ZH/AKXTO7PB6LKY6LFA4P6MZ3.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/26/XPSWWF2XQIMX7LXO8FE3DD.uasset",
+				"C:/Users/MSI PC/OneDrive/Documents/Unreal Projects/Plattoaimer/Content/ScifiWeapons/Material/Master/M_Scope.uasset"
+			]
+		}
+	]
+}
